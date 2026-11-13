@@ -16,4 +16,4 @@ Ensure the following files are downloaded from the main github page and placed i
 "Linking_hospitals_to/hospital_trust_manual_linkage_sheet_master.csv"
 "abbreviations_to_load/Abbreviations_to_load.csv"
 
-Any questions about analysis to Neil Lawrence n.r.lawrence@sheffield.ac.uk
+Any questions about analysis to Neil Lawrence neilxlawrence@gmail.com
